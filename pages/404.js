@@ -1,3 +1,3 @@
 export default function Pages () {
-    return "Halaman Tidak Di temukan"
+    return <h1>404 | Page Not Found</h1>
 }
